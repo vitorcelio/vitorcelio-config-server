@@ -1,0 +1,12 @@
+spring:
+ application:
+  name: servico-saudacoes
+management:
+ endpoints:
+  web:
+   exposure:
+    include:
+    - '*'
+servico-saudacoes:
+ saudacao: "Hola"
+ default-saudacao: "mundo!"

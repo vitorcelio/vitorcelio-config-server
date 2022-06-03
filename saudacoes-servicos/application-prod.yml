@@ -8,5 +8,5 @@ management:
     include:
     - '*'
 servico-saudacoes:
- saudacao: "Cia"
+ saudacao: "Pronto"
  default-saudacao: "Mondo!"

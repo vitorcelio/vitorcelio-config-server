@@ -9,4 +9,4 @@ management:
     - '*'
 servico-saudacoes:
  saudacao: "Hello"
- default-saudacao: "Word!"
+ default-saudacao: "World!"
